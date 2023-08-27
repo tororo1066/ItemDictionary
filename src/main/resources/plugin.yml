@@ -1,0 +1,12 @@
+name: ItemDictionary
+version: '${version}'
+main: tororo1066.itemdictionary.ItemDictionary
+api-version: '1.19'
+
+commands:
+  itemdictionary:
+    aliases:
+      - dic
+      - idic
+      - itemdic
+    permission: itemdic.op
